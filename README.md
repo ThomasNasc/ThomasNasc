@@ -1,6 +1,6 @@
 <h1> 👋 Olá, eu sou Thomas Nascimento</h1>
 -👀 Desenvolvedor Front-End <br>
--🥇 HTML, CSS, JS, React <br>
+-🥇 HTML, CSS, JS, React, UX Design <br>
 -🏅 Masterizando :Typescript, Material-UI, Styled-Components, AXIOX
 <br>
 <br>
