@@ -1,8 +1,8 @@
 <h1> 👋 Olá, eu sou Thomas Nascimento</h1>
-- 👀 Desenvolvedor Front-End <br>
-- 🌱 Evoluindo em Node <br>
-- 🥇 HTML, CSS, JS, React
-- <br>
+-👀 Desenvolvedor Front-End <br>
+-🥇 HTML, CSS, JS, React <br>
+-🏅 Masterizando :Typescript, Material-UI, Styled-Components, AXIOX
+<br>
 <br>
 <div>
 <img height="150em"  src=https://github-readme-stats.vercel.app/api?username=ThomasNasc&theme=dark&show_icons=true />
