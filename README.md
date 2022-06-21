@@ -1,5 +1,6 @@
 <h1> 👋 Olá, eu sou Thomas Nascimento</h1>
 -👀 Desenvolvedor Front-End <br>
+Portifólio : <a href="https://thomasnascimentofront-end-dev.vercel.app/" target="_blank"> Clique aqui</a> <br>
 -🥇 Conhecimento em: HTML, CSS, JS, React, UX Design, Next js, Styled-Components, Sass, Tailwind <br>
 -🏅 Aprendendo: Typescript, Material-UI, AXIOX
 <br>
