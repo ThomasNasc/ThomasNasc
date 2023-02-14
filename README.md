@@ -1,8 +1,10 @@
 <h1> 👋 Olá, eu sou Thomas Nascimento</h1>
 -👀 Desenvolvedor Front-End <br>
 Portifólio : <a href="https://thomasnascimentofront-end-dev.vercel.app/" target="_blank"> Clique aqui</a> <br>
--🥇 Conhecimento em: HTML, CSS, JS, React, UX Design, Next js, Styled-Components, Sass, Tailwind <br>
--🏅 Aprendendo: Typescript, Material-UI, AXIOX
+-🥇 Conhecimento em: <br>
+Front-End: HTML, CSS, JS, React, UX Design, Next js, Styled-Components, Sass, Tailwind <br>
+Back-End: C#, ASP.NET
+
 <br>
 <br>
 <div>
@@ -21,8 +23,9 @@ Portifólio : <a href="https://thomasnascimentofront-end-dev.vercel.app/" target
 <img height="30em"  src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png />-
 <img height="30em" width="50em"  src=https://user-images.githubusercontent.com/88692164/168452128-a74ef910-b724-460a-946a-dce4dc4cf5de.png />-
 <img height="30em"  src=https://user-images.githubusercontent.com/88692164/170590636-b202ab32-962d-420d-ab74-1e0fb26d9534.png />-
- 
- <h1>Link</h1>
+<img height="30em"  src=https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png />-
+ <img height="30em"  src=https://msatechnosoft.in/blog/wp-content/uploads/2018/09/asp.net-logo-MSA-Technosoft.png />-
+ <h1>Links</h1>
 <a href="https://www.linkedin.com/in/thomasnasc/" target="_blank"><img width="40px "src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a>
  
 
